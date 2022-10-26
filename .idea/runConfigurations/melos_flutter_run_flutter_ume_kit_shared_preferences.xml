@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Flutter Run -&gt; 'flutter_ume_kit_shared_preferences'" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="filePath" value="$PROJECT_DIR$/packages/flutter_ume_kit_shared_preferences/lib/main.dart" />
+    <method v="2" />
+  </configuration>
+</component>

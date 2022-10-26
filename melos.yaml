@@ -1,0 +1,9 @@
+name: flutter_ume_kits
+
+packages:
+  - packages/**
+  - example
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
