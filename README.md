@@ -6,6 +6,8 @@ Welcome to contribute here for flutter_ume kits environment.
 
 ## flutter_ume_kit_slow_animation
 
+https://pub.dev/packages/flutter_ume_kit_slow_animation
+
 Make the animation slow or fast.
 
 [![pub package](https://img.shields.io/pub/v/flutter_ume_kit_slow_animation.svg)](https://pub.dev/packages/flutter_ume_kit_slow_animation)
@@ -15,6 +17,8 @@ Make the animation slow or fast.
 [![pub package](https://img.shields.io/pub/publisher/flutter_ume_kit_slow_animation.svg)](https://pub.dev/packages/flutter_ume_kit_slow_animation)
 
 ## flutter_ume_kit_shared_preferences
+
+https://pub.dev/packages/flutter_ume_kit_shared_preferences
 
 Kit for shared_preferences.
 
@@ -26,6 +30,8 @@ Kit for shared_preferences.
 
 ## flutter_ume_kit_designer_check
 
+https://pub.dev/packages/flutter_ume_kit_designer_check
+
 UI check tool for designer.
 
 [![pub package](https://img.shields.io/pub/v/flutter_ume_kit_designer_check.svg)](https://pub.dev/packages/flutter_ume_kit_designer_check)
@@ -36,6 +42,8 @@ UI check tool for designer.
 
 ## flutter_ume_kit_clean_local_data
 
+https://pub.dev/packages/flutter_ume_kit_clean_local_data
+
 Clean local data.
 
 [![pub package](https://img.shields.io/pub/v/flutter_ume_kit_clean_local_data.svg)](https://pub.dev/packages/flutter_ume_kit_clean_local_data)
@@ -45,6 +53,8 @@ Clean local data.
 [![pub package](https://img.shields.io/pub/publisher/flutter_ume_kit_clean_local_data.svg)](https://pub.dev/packages/flutter_ume_kit_clean_local_data)
 
 ## flutter_ume_kit_database_kit
+
+https://pub.dev/packages/flutter_ume_kit_database_kit
 
 Database kit for SQLite, hive and SP.
 
