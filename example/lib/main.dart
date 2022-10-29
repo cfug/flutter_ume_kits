@@ -3,8 +3,8 @@ import 'package:flutter_ume/flutter_ume.dart';
 import 'package:flutter_ume_kit_designer_check/flutter_ume_kit_designer_check.dart';
 import 'package:flutter_ume_kit_slow_animation/flutter_ume_kit_slow_animation.dart';
 import 'package:flutter_ume_kit_shared_preferences/shared_preferences_inspector.dart';
-import 'package:clean_local_data/clean_local_data.dart';
-import 'package:database_kit/database_kit.dart';
+import 'package:flutter_ume_kit_clean_local_data/clean_local_data.dart';
+import 'package:flutter_ume_kit_database_kit/database_kit.dart';
 
 import 'database_testcase/setup.dart';
 

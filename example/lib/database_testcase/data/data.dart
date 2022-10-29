@@ -1,4 +1,4 @@
-import 'package:database_kit/database_kit.dart';
+import 'package:flutter_ume_kit_database_kit/database_kit.dart';
 import 'package:hive/hive.dart';
 part 'data.g.dart';
 

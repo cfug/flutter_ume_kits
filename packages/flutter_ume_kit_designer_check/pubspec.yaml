@@ -1,7 +1,7 @@
 name: flutter_ume_kit_designer_check
-description: UI check tool for designer
+description: UI check tool for designer.
 version: 0.0.1
-homepage:
+homepage: https://github.com/cfug/flutter_ume_kit
 
 environment:
   sdk: ">=2.15.0 <3.0.0"

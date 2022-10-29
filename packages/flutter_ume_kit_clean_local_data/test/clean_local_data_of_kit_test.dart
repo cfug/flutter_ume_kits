@@ -1,5 +1,5 @@
-import 'package:clean_local_data/clean_local_data.dart';
-import 'package:clean_local_data/util.dart';
+import 'package:flutter_ume_kit_clean_local_data/clean_local_data.dart';
+import 'package:flutter_ume_kit_clean_local_data/util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_ume/flutter_ume.dart';

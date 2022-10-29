@@ -51,10 +51,10 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 dependency_overrides:
-  clean_local_data:
-    path: ../packages/clean_local_data
-  database_kit:
-    path: ../packages/database_kit
+  flutter_ume_kit_clean_local_data:
+    path: ../packages/flutter_ume_kit_clean_local_data
+  flutter_ume_kit_database_kit:
+    path: ../packages/flutter_ume_kit_database_kit
   flutter_ume: ^1.1.1+1
   flutter_ume_kit_designer_check:
     path: ../packages/flutter_ume_kit_designer_check

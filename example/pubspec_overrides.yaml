@@ -1,9 +1,9 @@
-# melos_managed_dependency_overrides: clean_local_data,flutter_ume_kit_designer_check,flutter_ume_kit_shared_preferences,flutter_ume_kit_slow_animation,database_kit,flutter_ume
+# melos_managed_dependency_overrides: flutter_ume_kit_clean_local_data,flutter_ume_kit_designer_check,flutter_ume_kit_shared_preferences,flutter_ume_kit_slow_animation,flutter_ume_kit_database_kit,flutter_ume
 dependency_overrides: 
-  clean_local_data:
-    path: ../packages/clean_local_data
-  database_kit:
-    path: ../packages/database_kit
+  flutter_ume_kit_clean_local_data:
+    path: ../packages/flutter_ume_kit_clean_local_data
+  flutter_ume_kit_database_kit:
+    path: ../packages/flutter_ume_kit_database_kit
   flutter_ume: ^1.1.1+1
   flutter_ume_kit_designer_check:
     path: ../packages/flutter_ume_kit_designer_check
@@ -11,10 +11,10 @@ dependency_overrides:
     path: ../packages/flutter_ume_kit_shared_preferences
   flutter_ume_kit_slow_animation:
     path: ../packages/flutter_ume_kit_slow_animation
-  # clean_local_data:
-  #   path: ../packages/clean_local_data
-  # database_kit:
-  #   path: ../packages/database_kit
+  # flutter_ume_kit_clean_local_data:
+  #   path: ../packages/flutter_ume_kit_clean_local_data
+  # flutter_ume_kit_database_kit:
+  #   path: ../packages/flutter_ume_kit_database_kit
   # flutter_ume: ^1.1.1+1
   # flutter_ume_kit_designer_check:
   #   path: ../packages/flutter_ume_kit_designer_check

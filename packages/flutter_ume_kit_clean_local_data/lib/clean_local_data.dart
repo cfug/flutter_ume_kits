@@ -1,8 +1,8 @@
-library clean_local_data;
+library flutter_ume_kit_clean_local_data;
 
 import 'dart:convert';
 
-import 'package:clean_local_data/util.dart';
+import 'package:flutter_ume_kit_clean_local_data/util.dart';
 import 'package:data_size/data_size.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ume/flutter_ume.dart';

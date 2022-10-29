@@ -1,5 +1,5 @@
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:database_kit/database_kit.dart';
+import 'package:flutter_ume_kit_database_kit/database_kit.dart';
 import 'data/data.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
