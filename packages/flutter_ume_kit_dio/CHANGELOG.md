@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1+1
+
+* 组织转移至 CFUG
+
+* CFUG will maintain the repo.
+
 ## 1.0.1
 
 * 组织转移至 CFUG
