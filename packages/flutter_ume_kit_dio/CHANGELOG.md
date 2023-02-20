@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1+2
+
+* 更新 README
+
+* Update README
+
 ## 1.0.1+1
 
 * 组织转移至 CFUG
