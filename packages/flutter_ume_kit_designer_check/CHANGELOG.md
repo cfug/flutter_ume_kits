@@ -1,5 +1,9 @@
 # flutter_ume_kit_designer_check
 
+## 1.0.0
+
+Upgrade flutter_ume to latest version.
+
 ## 0.0.2
 
 Remove snapshots in package
