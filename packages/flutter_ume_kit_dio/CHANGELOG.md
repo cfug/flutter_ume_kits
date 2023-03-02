@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.0+3
+
+Upgrade dio to v5.
+
 ## 1.0.1+2
 
 * 更新 README
