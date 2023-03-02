@@ -1,6 +1,6 @@
 name: flutter_ume_kit_clean_local_data
 description: Clean local data.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/cfug/flutter_ume_kit
 
 environment:
