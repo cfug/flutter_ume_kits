@@ -1,6 +1,6 @@
 name: flutter_ume_kit_slow_animation
 description: Make the animation slow or fast.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/cfug/flutter_ume_kit
 
 environment:
@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_ume: 0.3.0+1
+  flutter_ume: ^1.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^2.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

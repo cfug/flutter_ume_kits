@@ -1,6 +1,6 @@
 name: flutter_ume_kit_clean_local_data
 description: Clean local data.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/cfug/flutter_ume_kit
 
 environment:
@@ -10,14 +10,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_ume: '>=0.3.0 <0.4.0'
-  path_provider: ^2.0.0
+  flutter_ume: ^1.1.2
+  path_provider: ^2.0.13
   data_size: ^0.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
-  mockito: ^5.0.12
+  flutter_lints: ^2.0.1
+  mockito: ^5.3.2
 
 flutter:
