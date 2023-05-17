@@ -4,6 +4,14 @@ packages:
   - packages/**
   - example
 
-command:
-  bootstrap:
-    usePubspecOverrides: true
+scripts:
+  analyze:
+    exec: dart analyze .
+  get:
+    exec: flutter pub get
+  test:
+    exec: flutter test
+  format:
+    exec: dart format --set-exit-if-changed .
+
+sdkPath: auto
